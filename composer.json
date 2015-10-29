@@ -38,11 +38,11 @@
 		"source":"https://github.com/designs2/bundle_filter"
 	},
 	"require":{
-		"designs2/filter_checkbox":"*",
-		"designs2/filter_fromto":"*",
-		"designs2/filter_range":"*",
-		"designs2/filter_select":"*",
-		"designs2/filter_tags":"*",
-		"designs2/filter_text":"*"
+		"designs2/filter_checkbox":"dev-master",
+		"designs2/filter_fromto":"dev-master",
+		"designs2/filter_range":"dev-master",
+		"designs2/filter_select":"dev-master",
+		"designs2/filter_tags":"dev-master",
+		"designs2/filter_text":"dev-master"
 	}
 }
