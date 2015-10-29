@@ -1,5 +1,5 @@
 {
-	"name":"metamodels/bundle_filter",
+	"name":"designs2/bundle_filter",
 	"description":"MetaModels bundle for filter",
 	"keywords":["contao", "metamodels", "bundle", "metapackage"],
 	"type":"metapackage",
@@ -35,14 +35,14 @@
 		"issues":"https://github.com/MetaModels/bundle_filter/issues",
 		"wiki":"http://de.contaowiki.org/MetaModels",
 		"irc":"irc://irc.freenode.org/contao.mm",
-		"source":"https://github.com/MetaModels/bundle_filter"
+		"source":"https://github.com/designs2/bundle_filter"
 	},
 	"require":{
-		"metamodels/filter_checkbox":"*",
-		"metamodels/filter_fromto":"*",
-		"metamodels/filter_range":"*",
-		"metamodels/filter_select":"*",
-		"metamodels/filter_tags":"*",
-		"metamodels/filter_text":"*"
+		"designs2/filter_checkbox":"*",
+		"designs2/filter_fromto":"*",
+		"designs2/filter_range":"*",
+		"designs2/filter_select":"*",
+		"designs2/filter_tags":"*",
+		"designs2/filter_text":"*"
 	}
 }
